@@ -1,0 +1,8 @@
+{
+  "name": "gulp-boilerplate",
+  "version": "1.0.0",
+  "description": "My boilerplate for gulp-based projects to quickly bootstrap new ones.",
+  "main": "./public/index.html",
+  "author": "Alexey Maltsev",
+  "license": "MIT"
+}
