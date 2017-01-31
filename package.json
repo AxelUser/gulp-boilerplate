@@ -4,5 +4,12 @@
   "description": "My boilerplate for gulp-based projects to quickly bootstrap new ones.",
   "main": "./public/index.html",
   "author": "Alexey Maltsev",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "babel-preset-es2015": "^6.22.0",
+    "gulp": "github:gulpjs/gulp#4.0",
+    "gulp-babel": "^6.1.2",
+    "gulp-less": "^3.3.0",
+    "gulp-sourcemaps": "^2.4.0"
+  }
 }
