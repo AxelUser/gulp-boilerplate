@@ -10,11 +10,11 @@ Structure:
 --[**public**] *//Final application*  
 |  
 --[**src**] *//All sources*  
-  |  
-  --[**assets**]  
-  |  
-  --[**js**]  
-  |  
-  --[**less**]  
-  |  
-  --[**views**]  
+|  
+----[**assets**]  
+|  
+----[**js**]  
+|  
+----[**less**]  
+|  
+----[**views**]  
