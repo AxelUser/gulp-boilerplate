@@ -1,2 +1,10 @@
 #node
 node_modules
+
+#sources
+src/**/*.less
+src/**/*.js
+src/**/*.html
+public/**/*.css
+public/**/*.js
+public/**/*.html
