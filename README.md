@@ -3,18 +3,18 @@ My boilerplate for gulp-based projects to quickly bootstrap new ones.
 
 Structure:
 
-[root]  
+[**root**]  
 |  
---[gulp-tasks] //Tasks for Gulp :)  
+--[**gulp-tasks**] *//Tasks for Gulp :)*  
 |  
---[public] //Final application  
+--[**public**] *//Final application*  
 |  
---[src] //All sources  
+--[**src**] *//All sources*  
   |  
-  --[assets]  
+  --[**assets**]  
   |  
-  --[js]  
+  --[**js**]  
   |  
-  --[less]  
+  --[**less**]  
   |  
-  --[views]  
+  --[**views**]  
